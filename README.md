@@ -4,7 +4,7 @@
 #### REG.NO: 212223230070
 
 ## AIM:
-	To implement key exchange between users using Diffie Hellman algorithm.
+To implement key exchange between users using Diffie Hellman algorithm.
 
 ## ALGORITHM:
 •	Get the input for prime number p.
@@ -59,5 +59,5 @@ int main()
  ![image](https://github.com/user-attachments/assets/bf63338b-dfe5-4b61-b16b-f8568e3ce732)
 
 ## RESULT:
-	Hence, the simulation of Diffie Hellman algorithm is successfully done.
+Hence, the simulation of Diffie Hellman algorithm is successfully done.
 
